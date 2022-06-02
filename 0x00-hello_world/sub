@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'add a program that prints a string using puts function'
+git commit -m 'add a program that prints a string using printf function'
 git push
