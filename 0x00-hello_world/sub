@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m 'add a script that compiles a C file but does not link'
+git push
